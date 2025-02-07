@@ -1,6 +1,6 @@
 # Programming-Assignment-2-ADT
 
-Assignment-2-ADT: Programming Assignment 2 in ADT & Solving Problem course that processes an input file to analyze text, including character count, tokenization, palindrome detection, emoticon recognition, line count, longest word, average word length and performance measurement.
+Assignment-2-ADT: Programming Assignment 2 in ADT & Solving Problem course that processes an input file to analyze text, including character count, palindrome detection, words count, emoticon recognition, line count, longest word, average word length and performance measurement.
 
 ## Table of Contents
 1. [Description](#description)
@@ -31,8 +31,8 @@ This program reads a text file (`input1.txt`) and analyzes its contents by count
 
 ## Features
 - **Character Count**: Counts the total number of characters in the file.
-- **Tokenization**: Splits the text into words (tokens) based on spaces.
 - **Palindrome Detection**: Identifies and counts palindromic words.
+- **Words Count**: Counts the total number of words in the file.
 - **Emoticon Detection**: Recognizes basic emoticons such as `:)`, `:D`, and `:(`.
 - **Line Count**: Counts the number of lines in the file.
 - **Longest Word**: Determines the size of the longest word.
